@@ -6,3 +6,4 @@ function a(){
 function b(){
     int.src="./img/bullet-350-home.avif"
 }
+
